@@ -898,7 +898,7 @@
   <properties>
     <!-- Dependencies -->
     <joda-convert.version>2.2.2</joda-convert.version>
-    <junit.version>5.9.0</junit.version>
+    <junit.version>5.9.1</junit.version>
     <guava.version>31.1-jre</guava.version>
     <!-- Plugin version numbers -->
     <maven-assembly-plugin.version>3.4.2</maven-assembly-plugin.version>
